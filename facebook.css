@@ -4,6 +4,7 @@
 
 body {
     overflow: hidden;
+    cursor: pointer;
 }
 
 ::-webkit-scrollbar {
@@ -164,7 +165,6 @@ body {
     max-height: 700px;
     overflow: auto;
     overflow: hidden;
-    margin-top: 110px;
 
 }
 
@@ -226,8 +226,8 @@ p {
 .main-mid {
     flex: 5;
     max-height: 690px;
-    margin-top: 120px;
     overflow: auto;
+    margin-top: 60px;
 
 }
 
@@ -584,7 +584,7 @@ p {
 /* main right */
 .main-right {
     flex: 3;
-    margin-top: 120px;
+    margin-top: 60px;
     max-height: 690px;
     overflow: auto;
     overflow: hidden;
