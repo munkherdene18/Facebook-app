@@ -337,3 +337,8 @@ body {
     cursor: pointer;
 
 }
+
+.youtube button a{
+    text-decoration: none;
+    color: black;
+}

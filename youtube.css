@@ -1,0 +1,45 @@
+body {
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 160px;
+    
+}
+.mdku{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    color: rgba(55, 53, 51, 0.549); 
+}
+
+.sorry {
+    border: 1px solid rgb(41, 228, 41);
+    width: 30%;
+    height: 100%;
+    font-size: 30px;
+    color: rgb(127, 212, 255);
+    padding: 50px;
+    border-radius: 30px;
+}
+
+.emote {
+    height: 400px;
+    width: 350px;
+    background-image: url(zurag2/download.png);
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+}
+
+
+.sorry:hover{
+    font-size: 35px;
+    width: 35%;
+
+}
